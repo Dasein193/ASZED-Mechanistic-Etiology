@@ -1,0 +1,22 @@
+# Datos y resultados locales (¡NO SUBIR DATOS DE PACIENTES!)
+*.edf
+*.csv
+*.xlsx
+Censo_ASZED_Limpio.csv
+
+# Gráficos generados localmente (opcional, para mantener limpio el repo)
+*.png
+*.jpg
+*.pdf
+
+# Python cache y entornos virtuales
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Archivos del sistema operativo (para que no se suba basura de Windows/Mac)
+.DS_Store
+Thumbs.db

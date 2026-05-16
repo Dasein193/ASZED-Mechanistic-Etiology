@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or theoretical model in your research, please cite it as below."
+authors:
+  - family-names: "Tapia Castañeda"
+    given-names: "Hugo Evaristo"
+    orcid: "https://orcid.org/AQUÍ_TU_ORCID_SI_TIENES"
+title: "ASZED: Mechanistic Etiology of Schizophrenia via Hopf Bifurcation"
+version: 1.0.0
+date-released: 2026-05-15
+url: "https://github.com/TU_USUARIO/ASZED-Mechanistic-Etiology"
