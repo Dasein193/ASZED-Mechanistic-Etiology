@@ -16,7 +16,7 @@ By modeling the brain's macroscopic dynamics through a Supercritical Hopf Bifurc
 
 ## Installation
 ```bash
-git clone [https://github.com/TU_USUARIO/ASZED-Mechanistic-Etiology.git](https://github.com/TU_USUARIO/ASZED-Mechanistic-Etiology.git)
+git clone [https://github.com/Dasein193/ASZED-Mechanistic-Etiology.git](https://github.com/Dasein193/ASZED-Mechanistic-Etiology.git)
 cd ASZED-Mechanistic-Etiology
 pip install -r requirements.txt
 
